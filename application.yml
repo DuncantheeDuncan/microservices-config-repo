@@ -1,1 +1,4 @@
-
+my:
+  greeting: Hello world from the config file
+  list:
+    values: One, two, three, Four
